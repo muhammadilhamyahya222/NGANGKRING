@@ -1,0 +1,155 @@
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.exe
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.deps.json
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.runtimeconfig.json
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.pdb
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form1.resources
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form2.resources
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form3.resources
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form4.resources
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form5.resources
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form7.resources
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form9.resources
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.GenerateResource.cache
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.AssemblyInfo.cs
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.CopyComplete
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\refint\NGANGKRING.dll
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.pdb
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.genruntimeconfig.cache
+C:\Users\User\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\ref\NGANGKRING.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.exe
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.deps.json
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.runtimeconfig.json
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.pdb
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Npgsql.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.AssemblyReference.cache
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form1.resources
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form2.resources
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form3.resources
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form4.resources
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form5.resources
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form7.resources
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form9.resources
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.GenerateResource.cache
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.AssemblyInfoInputs.cache
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.AssemblyInfo.cs
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.CoreCompileInputs.cache
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.CopyComplete
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\refint\NGANGKRING.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.pdb
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.genruntimeconfig.cache
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\ref\NGANGKRING.dll
+E:\College\Smt 3\PBO\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Properties.Resources.resources
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.exe
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.deps.json
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.runtimeconfig.json
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.pdb
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form1.resources
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form2.resources
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form3.resources
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form4.resources
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form5.resources
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form7.resources
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form9.resources
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Properties.Resources.resources
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.AssemblyInfo.cs
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.CopyComplete
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\refint\NGANGKRING.dll
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.pdb
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.genruntimeconfig.cache
+C:\Users\Asus\Downloads\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\ref\NGANGKRING.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.exe
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.deps.json
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.runtimeconfig.json
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\NGANGKRING.pdb
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Npgsql.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.AssemblyReference.cache
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form1.resources
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form2.resources
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form3.resources
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form4.resources
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form5.resources
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form7.resources
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Form9.resources
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.Properties.Resources.resources
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.GenerateResource.cache
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.AssemblyInfoInputs.cache
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.AssemblyInfo.cs
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.CoreCompileInputs.cache
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.csproj.CopyComplete
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\refint\NGANGKRING.dll
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.pdb
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\NGANGKRING.genruntimeconfig.cache
+E:\College\Smt 3\PBO\finalprojectpbosmt3\NGANGKRING\NGANGKRING\NGANGKRING\obj\Debug\net6.0-windows\ref\NGANGKRING.dll
